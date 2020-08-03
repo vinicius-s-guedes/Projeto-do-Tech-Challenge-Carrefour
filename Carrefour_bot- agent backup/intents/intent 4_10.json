@@ -1,0 +1,35 @@
+{
+  "id": "85a575ca-1319-49e6-8907-71fd60ceb3d9",
+  "name": "intent 4_10",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para analisar o ocorrido junto à administradora do cartão de crédito, entre em contato conosco pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

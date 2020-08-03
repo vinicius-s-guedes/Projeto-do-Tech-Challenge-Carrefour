@@ -1,0 +1,33 @@
+[
+  {
+    "id": "b0f9adbe-2fad-4ca4-b444-3e734de08861",
+    "data": [
+      {
+        "text": "troca cancelamento e devolução",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2800ad7e-82ca-4fd0-b0c7-6c4d3495e07a",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

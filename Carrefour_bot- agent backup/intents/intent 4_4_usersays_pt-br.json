@@ -1,0 +1,65 @@
+[
+  {
+    "id": "06624982-0aef-4793-8294-25dc8066de50",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cba85119-19d0-49f2-992a-be9515d835f0",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b2679cd-4e32-47d0-a051-b1b9b140fe59",
+    "data": [
+      {
+        "text": "Estava fazendo o meu pedido, mas o sistema caiu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

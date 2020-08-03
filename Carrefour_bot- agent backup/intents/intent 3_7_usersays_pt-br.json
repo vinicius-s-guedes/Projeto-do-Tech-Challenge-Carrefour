@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1d30bc1f-07d8-43c2-849d-13d15c95199c",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e3350043-20aa-4ac9-81f5-985f0ebd98fb",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c84f2ed4-a742-45f1-be06-a39e80a50245",
+    "data": [
+      {
+        "text": "Posso comprar os mesmos produtos oferecidos pelo “",
+        "userDefined": false
+      },
+      {
+        "text": "Mercado",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " até Você” no site do ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

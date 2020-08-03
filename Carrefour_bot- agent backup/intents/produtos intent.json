@@ -1,0 +1,50 @@
+{
+  "id": "79ec6c1c-2d4c-4887-885a-eb4278619631",
+  "name": "produtos intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b08ea007-7c8e-4ec2-b585-719d703f337d",
+          "name": "produto",
+          "required": false,
+          "dataType": "@produto",
+          "value": "$produto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Veja aqui nesse link sobre esse produto\nNão é o que procura? Digite só o nome do produto e tentarei fazer uma busca mais completa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

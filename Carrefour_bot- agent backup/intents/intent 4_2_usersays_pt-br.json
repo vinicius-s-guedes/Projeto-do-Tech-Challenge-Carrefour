@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2def37a7-1473-4931-880d-e1c5152f7603",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ae09a7c-7685-4160-86bd-f2579b5ee76d",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca14280b-6e9d-4936-ae4b-027501144965",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " valor mínimo ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " o pedido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

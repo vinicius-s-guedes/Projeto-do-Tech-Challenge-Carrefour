@@ -1,0 +1,83 @@
+[
+  {
+    "id": "323675e7-bc5d-46c2-8ffe-3ec58383e19a",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "52789651-fa10-450d-b907-1b9865650e34",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e256b923-43bf-4d78-99d8-ecb949e2c7ae",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " entrega em todo o ",
+        "userDefined": false
+      },
+      {
+        "text": "Brasil",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

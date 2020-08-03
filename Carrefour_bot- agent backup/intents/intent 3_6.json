@@ -1,0 +1,35 @@
+{
+  "id": "0b5b1f08-3ea5-4301-aa57-c3cb8007bdae",
+  "name": "intent 3_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Existem duas formas de procurar um produto em nosso aplicativo: pelo campo de busca e pelas categorias. No campo de busca, basta digitar o item que procura e mostraremos todos os resultados relacionados ao que você escreveu. Através das categorias, você encontra agrupamentos de produtos, como alimentos, bebidas, carnes, limpeza e higiene pessoal e muito mais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

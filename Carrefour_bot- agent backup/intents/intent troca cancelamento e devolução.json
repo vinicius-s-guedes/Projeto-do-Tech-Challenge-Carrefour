@@ -1,0 +1,35 @@
+{
+  "id": "56c76283-1035-41ef-8084-b3bd653c25f7",
+  "name": "intent troca cancelamento e devolução",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/6_1 Posso trocar um produto comprado online em uma loja física?\n/6_2 Como faço para trocar o meu produto?\n/6_3 Após solicitar a troca, em quanto tempo receberei meu novo pedido?\n/6_4 Ganhei um presente comprado no aplicativo do Carrefour, mas quero trocá-lo. O que devo fazer?\n/6_5 Posso escolher um produto diferente no ato da troca?\n/6_6 Qual o prazo para solicitar uma troca?\n/6_7 Recebi um produto diferente do comprado. O que devo fazer?\n/6_8 Terei que pagar pelo frete da primeira troca?\n/6_9 Qual é o prazo de coleta para o meu produto?\n/6_10 Preciso ter alguém em casa ou na portaria para devolver o produto?\n/6_11 Em qual horário o meu produto será coletado?\n/6_12 Qual transportadora coletará o meu produto?\n/6_13 Quem pode devolver meu produto se eu não estiver presente?\n/6_14 Posso deixar o produto para coleta na portaria do meu prédio?\n/6_15 O produto que vou trocar ou devolver pode estar em um endereço diferente do que foi entregue?\n/6_16 Desisti da minha compra. O que devo fazer?\n/6_17 O produto não atendeu às minhas expectativas\n/6_18 Quais são as formas de restituição do valor pago no caso de devolução?\n/6_19 Posso recusar o recebimento de um pedido se houver algo errado?\n/6_20 Meu produto chegou quebrado/com a embalagem danificada\n/6_21 E se eu perceber que um produto está estragado depois do prazo de troca de 7 (sete) dias?\n/6_22 Como faço para cancelar uma compra feita no aplicativo?\n/6_23 Consigo ativar um pedido cancelado?\n/6_24 Meu pedido foi cancelado sem a minha autorização\n/6_25 Quanto tempo leva para estornar um valor nas compras feitas com cartão de crédito ou Cartão Carrefour?                                                                                      \n/6_26 Por que a demora para estornar o valor de uma compra cancelada?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0c147e3b-ed1a-4193-a42f-a1603cf351fa",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "35f178bd-cacd-4468-90c0-d1fd19b89b85",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c85b60e-a023-475a-8ca6-5056fb176dd0",
+    "data": [
+      {
+        "text": "Os ",
+        "userDefined": false
+      },
+      {
+        "text": "veículos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "transportadora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " estão adequados ",
+        "userDefined": false
+      },
+      {
+        "text": "para o transporte",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de produtos congelados e refrigerados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

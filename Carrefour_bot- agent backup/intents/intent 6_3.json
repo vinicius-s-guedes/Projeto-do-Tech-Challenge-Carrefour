@@ -1,0 +1,35 @@
+{
+  "id": "4b7e53e9-22cb-4f71-b073-4c5897eacb2f",
+  "name": "intent 6_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Esse prazo é variável e depende de alguns fatores. Veja como funciona o processo:\n\nApós solicitar a troca do pedido, você precisará devolver o produto em questão e aguardar uma de nossas transportadoras buscá-lo em sua casa.Depois que o produto saiu de suas mãos, ele precisa chegar até as nossas. Portanto, precisamos aguardar a transportadora entregá-lo para nós.Quando o produto chegar ao nosso centro de distribuição, faremos uma análise para ver se ele está de acordo com a descrição que você fez ao solicitar a troca.Por fim, damos início à preparação do seu novo pedido e enviamos um e-mail informando o prazo de entrega dele. Qualquer dúvida entre em contato com o nosso Atendimento pelo telefone 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

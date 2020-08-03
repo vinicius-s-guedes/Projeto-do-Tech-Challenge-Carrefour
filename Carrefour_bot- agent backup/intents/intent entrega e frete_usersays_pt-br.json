@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c921bad3-db74-4594-8aa4-a985fbb8a758",
+    "data": [
+      {
+        "text": "entrega e ",
+        "userDefined": false
+      },
+      {
+        "text": "frete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "be6d0037-aa9b-4046-8893-0286b854b9c2",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

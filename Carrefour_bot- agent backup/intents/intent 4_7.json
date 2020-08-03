@@ -1,0 +1,35 @@
+{
+  "id": "baf7ee47-17a8-4a9d-89dd-17a4a304f209",
+  "name": "intent 4_7",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O valor mínimo para parcelamento varia de acordo com o produto e a bandeira do cartão utilizado para pagar a compra. Em caso de dúvidas, entre em contato com a Administradora do seu cartão."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

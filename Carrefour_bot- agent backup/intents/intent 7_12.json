@@ -1,0 +1,35 @@
+{
+  "id": "be920e72-3418-4d93-bb64-ca7f40e3dd35",
+  "name": "intent 7_12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "São alimentos feitos com ingredientes que sofreram uma alteração no DNA para terem uma característica potencializada ou conquistarem uma nova. Dentre as possibilidades, é possível tornar um produto mais resistente a alguma praga ou mesmo deixá-lo mais nutritivo. Para chegar a isso, o produto recebe parte do DNA de outro alimento e, assim, “copia” algumas características dele. Para identificar um produto transgênico, verifique no rótulo a presença de um triângulo amarelo com todos os lados iguais e a letra “T” dentro. Outra forma é buscar frases como “produto produzido a partir de soja transgênica” ou “contém soja transgênica”. Há, ainda, outro jeito de identificá-lo: na lista de ingredientes do rótulo, há o nome da espécie doadora do gene transferido."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

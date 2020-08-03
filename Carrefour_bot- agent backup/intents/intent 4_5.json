@@ -1,0 +1,35 @@
+{
+  "id": "27f5381a-6dac-4836-9aac-a63b81f00c74",
+  "name": "intent 4_5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Você pode acessar o aplicativo e verificar o status do seu pedido a qualquer momento através do menu “Faz do seu jeito” clicando em “ver todas” na área roxa da página. Se continuar com alguma dúvida, entre em contato pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

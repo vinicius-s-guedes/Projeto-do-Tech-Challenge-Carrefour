@@ -1,0 +1,35 @@
+{
+  "id": "8e53e4aa-0316-4a11-aa0a-3cb61e57d262",
+  "name": "intent 6_16",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se o seu produto ainda não foi entregue, basta cancelar o pedido ligando para nossa Central de Atendimento. Se a sua compra já foi entregue e estiver dentro do prazo de 7 (sete) dias corridos a partir da data de recebimento, você pode solicitar uma troca ou devolução do valor pago. Entre em contato conosco pelo telefone 3003-2099* para mais informações. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

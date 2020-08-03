@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a16bba9a-b0fc-4c5c-a121-5f62097deca8",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "14",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a680e4ef-ca3a-4da8-8d10-eeb254bf7253",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "14",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "19ab1336-a1b0-47ae-8664-8bc0e458410c",
+    "data": [
+      {
+        "text": "O site do ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " envia e-mails promocionais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

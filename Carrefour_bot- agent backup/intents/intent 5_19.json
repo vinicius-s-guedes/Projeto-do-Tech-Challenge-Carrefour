@@ -1,0 +1,35 @@
+{
+  "id": "ef4314b9-2561-4e83-83f2-fd922052e740",
+  "name": "intent 5_19",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Carrefour sempre segue a legislação do país em que atua. No Brasil, precisamos de uma pessoa com mais de 18 anos disponível no endereço de entrega para receber a compra. Um documento de identificação dessa pessoa será solicitado pela nossa equipe de entrega para a comprovação de idade."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

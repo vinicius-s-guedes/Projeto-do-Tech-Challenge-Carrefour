@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e3edc25f-35b2-4e48-806c-30006d886e2f",
+    "data": [
+      {
+        "text": "cotia",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82a13499-001a-444e-ba31-69e7cc9b90f5",
+    "data": [
+      {
+        "text": "Cotia",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

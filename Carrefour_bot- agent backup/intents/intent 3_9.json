@@ -1,0 +1,35 @@
+{
+  "id": "aa6001e3-6e45-4d37-8e6a-12d84b195b2f",
+  "name": "intent 3_9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Toda vez em que o produto aparece como indisponível no carrinho é porque o último item acabou de ser vendido, mesmo que antes aparecesse como disponível na página. Isso acontece porque a atualização só é feita quando você troca de página."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

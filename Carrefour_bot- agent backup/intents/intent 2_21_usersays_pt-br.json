@@ -1,0 +1,83 @@
+[
+  {
+    "id": "56b56fcc-e9ac-4118-8da1-07a9b678e2f1",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "715c7152-f70a-4d7f-b042-116aa7ff7d1d",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "faa72456-f36a-43e4-a2d6-11068437b1bd",
+    "data": [
+      {
+        "text": "Recebi algumas notificações por push. Essas mensagens ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mesmo do ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

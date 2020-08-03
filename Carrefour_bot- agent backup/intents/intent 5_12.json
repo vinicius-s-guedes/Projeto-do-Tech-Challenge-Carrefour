@@ -1,0 +1,35 @@
+{
+  "id": "20df0b7a-c8e4-4a06-89c9-2f01cfd4fe4b",
+  "name": "intent 5_12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Todos os nossos entregadores são cautelosos com a sua compra. A conduta apresentada deve estar de acordo com os valores do Carrefour, já que prezamos sempre pelo respeito, pela proximidade e pela confiança de nossos clientes. Se precisar de qualquer outro esclarecimento, nossa Equipe de Atendimento está à sua disposição no telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5267dac5-35db-4641-876c-c57347c3783c",
+  "name": "intent 5_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para sua comodidade, trabalhamos com agendamento de entrega a fim de garantir que o entregador esteja em sua residência na data e período que você deseja. Durante a sua compra, você será levado para a tela de seleção de agendamento, onde poderá escolher entre os dias e horários disponíveis para sua região."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

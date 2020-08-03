@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c0cd3eb6-7a89-442b-a14b-a29c3d736f1b",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "38079ba0-2fdb-43a5-b4bb-a14e636db451",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2eeecfa9-70e9-4543-9376-bdf76232edce",
+    "data": [
+      {
+        "text": "As ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagens",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de entrega da compra são recicláveis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

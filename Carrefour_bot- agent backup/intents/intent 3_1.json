@@ -1,0 +1,35 @@
+{
+  "id": "cd0abcff-be65-40c6-86c6-e07c2a152848",
+  "name": "intent 3_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para comprar, você deve baixar o aplicativo “Meu Carrefour”, disponível na Play Store (para o sistema operacional Android) e na App Store (para o sistema operacional iOS). Em seguida realize seu cadastro, informando seus dados pessoais. Se você tiver qualquer dúvida durante esse processo, entre em contato conosco pelo telefone 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

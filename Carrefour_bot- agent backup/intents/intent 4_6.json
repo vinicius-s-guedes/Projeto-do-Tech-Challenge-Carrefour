@@ -1,0 +1,35 @@
+{
+  "id": "5686c04f-f2bf-4c59-8eb5-a7652db1773c",
+  "name": "intent 4_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para pagamento de sua compra, você pode utilizar os cartões de crédito das bandeiras Visa, MasterCard, Elo, American Express, DinersClub e Hipercard e o cartão Carrefour. O número de parcelas varia de acordo com as regras do cartão utilizado para pagar a compra. No caso de dúvidas, entre em contato com a Administradora do seu cartão."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

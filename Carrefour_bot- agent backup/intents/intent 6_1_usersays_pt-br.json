@@ -1,0 +1,83 @@
+[
+  {
+    "id": "7e2632db-302d-4014-9516-12d7fb3e67d7",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "65d79175-5af3-474d-9da4-58f252b1eabc",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "423bba54-ad0f-455f-8e54-93166f5b43aa",
+    "data": [
+      {
+        "text": "Posso trocar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produto comprado online em ",
+        "userDefined": false
+      },
+      {
+        "text": "uma loja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " física?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

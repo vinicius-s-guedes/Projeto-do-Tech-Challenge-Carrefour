@@ -1,0 +1,35 @@
+{
+  "id": "fd2ca469-9d6b-402f-b993-c728698218e0",
+  "name": "intent acesso segurança e cadastro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/2_1 Para comprar, tenho que me cadastrar no aplicativo?\n/2_2 Como faço para me cadastrar no aplicativo do Carrefour?\n/2_3 Quem pode comprar/se cadastrar no aplicativo?\n/2_4 Como acesso a área “Minha conta”?\n/2_5 Não consigo acessar a minha conta.\n/2_6 Fui informado de que já estou cadastrado na base de dados. O que devo fazer?\n/2_7 Como altero os dados de cadastro?\n/2_8 Como faço para alterar minha senha?\n/2_9 Esqueci minha senha\n/2_10 Minha senha foi alterada,mas não funciona\n/2_11 Não tenho mais acesso ao email cadastrado\n/2_12 Como altero um cartão de crédito cadastrado no aplicativo?\n/2_13 Como eu excluo meu cadastro?\n/2_14 Posso reativar minha conta?\n/2_15 O Carrefour pode cancelar a minha conta?\n/2_16 Não quero receber nenhuma comunicação do Carrefour ou e-mail promocionais\n/2_17 Comprar no aplicativo do Carrefour é seguro?\n/2_18 O que devo fazer se perceber que minha conta foi invadida?\n/2_19 Qual é a minha responsabilidade como usuário do aplicativo Carrefour?\n/2_20 O que é Push Notification?\n/2_21 Recebi algumas notificações por push. Essas mensagens são mesmo do Carrefour?\n/2_22 Não quero receber notificações por push. Como faço para desativar essas mensagens?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

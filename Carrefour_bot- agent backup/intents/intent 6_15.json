@@ -1,0 +1,35 @@
+{
+  "id": "01b9dae1-e0e3-4c9d-a2e3-a6a63de0e483",
+  "name": "intent 6_15",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No momento da solicitação da troca ou devolução, confirmaremos se o endereço para a retirada do produto está dentro da área atendida. Se tiver qualquer dúvida, nosso telefone é o 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

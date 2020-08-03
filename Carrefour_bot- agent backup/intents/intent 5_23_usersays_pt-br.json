@@ -1,0 +1,70 @@
+[
+  {
+    "id": "0e3f4dbf-be45-415f-8368-fffed31e82e9",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82b36e07-0ea9-4adc-bb2b-b6800bbe84f8",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ceebfc22-0c3e-4628-ac65-6fff932f74b5",
+    "data": [
+      {
+        "text": "Minha embalagem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chegou vazia, sem o produto que encomendei.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

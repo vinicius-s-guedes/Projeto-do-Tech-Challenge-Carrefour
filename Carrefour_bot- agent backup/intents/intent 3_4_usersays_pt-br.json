@@ -1,0 +1,83 @@
+[
+  {
+    "id": "3b0c6d9d-efdc-4b4f-96ce-7f51e621ec95",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51c74cc6-46a0-47d1-816b-a338c0c1f1b8",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18b6852f-63cc-426c-88a1-7c0f2ad56b4a",
+    "data": [
+      {
+        "text": "Posso comprar pelo aplicativo e retirar os produtos em ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " das ",
+        "userDefined": false
+      },
+      {
+        "text": "lojas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " físicas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

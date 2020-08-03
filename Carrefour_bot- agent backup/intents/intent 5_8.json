@@ -1,0 +1,35 @@
+{
+  "id": "f833d398-77c0-4610-8bc4-f5163752f464",
+  "name": "intent 5_8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Todas as nossas embalagens são especialmente desenvolvidas para a melhor acomodação dos produtos durante o transporte e buscam proteger e conservar a qualidade dos produtos. Os produtos são entregues em sacolas fáceis de carregar e reutilizáveis."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

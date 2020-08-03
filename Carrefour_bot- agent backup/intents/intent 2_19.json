@@ -1,0 +1,35 @@
+{
+  "id": "50d0f2fb-1fb8-42ec-9886-d2675badd7c1",
+  "name": "intent 2_19",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "É de responsabilidade do usuário instalar os aplicativos necessários para a visualização de conteúdos. O conteúdo gerado pelos usuários não é de responsabilidade do Carrefour e pode ser removido quando julgado necessário. Ao utilizar o aplicativo Carrefour, você concorda em identificar-se corretamente, em preservar o sigilo de sua senha de acesso, que é pessoal e intransferível, e em tornar-se responsável pelos atos praticados com o uso dela."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

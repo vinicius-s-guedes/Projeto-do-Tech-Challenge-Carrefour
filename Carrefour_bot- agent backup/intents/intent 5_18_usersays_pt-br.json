@@ -1,0 +1,47 @@
+[
+  {
+    "id": "78a0d3f6-f438-4e02-8a4e-fdc63ad2b856",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5_18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18b5177e-f7f6-41a1-90dd-87d1581f46aa",
+    "data": [
+      {
+        "text": "5_18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "95504779-148e-4b80-b564-c96b9a4bfe63",
+    "data": [
+      {
+        "text": "Quem pode receber meu pedido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

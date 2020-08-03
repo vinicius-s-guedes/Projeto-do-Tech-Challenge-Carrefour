@@ -1,0 +1,33 @@
+[
+  {
+    "id": "2453b890-10fa-48a7-9a94-146dccdfdfd3",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5957e0ea-8c52-4d90-a60a-3c8e3dd7b863",
+    "data": [
+      {
+        "text": "pedido e pagamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

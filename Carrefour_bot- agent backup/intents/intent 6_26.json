@@ -1,0 +1,35 @@
+{
+  "id": "6f545e70-9688-42e5-9acd-119fe9c1ba64",
+  "name": "intent 6_26",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O estorno cai em até duas faturas subsequentes. O período de espera depende se a data da solicitação foi feita antes ou depois do fechamento da sua fatura. Este prazo é necessário para que o trâmite burocrático seja realizado entre as operadoras de meios de pagamento e o Carrefour."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

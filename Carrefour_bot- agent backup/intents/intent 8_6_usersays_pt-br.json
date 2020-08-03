@@ -1,0 +1,83 @@
+[
+  {
+    "id": "6c84e8ed-7dff-4593-ba8d-9b7022d8c03b",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b1f9371-a49a-41ee-95d2-584f25c4fafd",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4991953-cbd8-437d-9d65-6444a5c541a7",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " os números de telefone do Cartão ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

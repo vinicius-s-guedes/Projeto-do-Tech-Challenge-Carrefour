@@ -1,0 +1,35 @@
+{
+  "id": "61344806-5055-41a7-948e-37b581726775",
+  "name": "intent 1_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para confirmar se já entregamos na sua região, acesse o aplicativo do “Mercado até você” e digite o seu CEP na tela de endereços localizada na página do “checkout”. Qualquer dúvida entre em contato com a nossa Central de Atendimento, através do telefone 3003-2099*, de segunda a sábado das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

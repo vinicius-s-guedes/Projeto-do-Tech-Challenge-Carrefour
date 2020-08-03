@@ -1,0 +1,35 @@
+{
+  "id": "f3257999-ba0e-43c6-949e-d648b5f0c866",
+  "name": "intent 5_10",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Contamos com diversas empresas para a entrega de nossos produtos, todas devidamente qualificadas e orientadas pela nossa política interna. Como as entregas podem ter muitas variáveis (volume e tipo do pedido, região, horário etc), não temos como precisar o nome da empresa."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e40320ce-3553-4bb0-afb3-7f2166421dde",
+  "name": "intent 3_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Oferecemos produtos perecíveis e não perecíveis. Entre as opções, há alimentos, bebidas, carnes, produtos de limpeza e higiene pessoal. Acesse o endereço do Mercado até você e conheça os itens disponíveis."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

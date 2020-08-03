@@ -1,0 +1,78 @@
+[
+  {
+    "id": "355cb73f-2f4e-49ba-9f51-6185c713af3e",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3bae87e3-bd1c-4670-9e5b-86e11552400e",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_9",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "52d80d55-79be-463b-a70f-86f9c4875039",
+    "data": [
+      {
+        "text": "Terei que pagar pelo ",
+        "userDefined": false
+      },
+      {
+        "text": "frete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "primeira",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " troca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

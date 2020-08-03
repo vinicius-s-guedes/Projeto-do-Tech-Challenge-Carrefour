@@ -1,0 +1,35 @@
+{
+  "id": "dfd75563-6540-424c-9272-ecdb46188d32",
+  "name": "intent 2_22",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se você não tem interesse em receber os alertas do Carrefour em seu dispositivo móvel, vá para o menu de Notificações do Ajustes no iOS e Configurações no Android para desabilitar as notificações do aplicativo. Assim, você muda como essas mensagens são mostradas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

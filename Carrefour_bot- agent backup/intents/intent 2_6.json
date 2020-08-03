@@ -1,0 +1,35 @@
+{
+  "id": "8eba1c12-d712-4fb7-95dd-dd70a5d04eef",
+  "name": "intent 2_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se você realmente já está cadastrado em nosso sistema, basta recuperar sua senha e usar a conta normalmente. Se você sabe qual e-mail foi usado na hora de criar a conta, mas esqueceu a senha acesse o menu “Faz na loja” e clique no ícone localizado no menu superior direito e digite o seu CPF. Em seguida clique em “Esqueci a senha” e informe o seu e-mail. Você receberá uma mensagem com o passo a passo para a recuperação de senha.\nSe você não lembra nem o e-mail, nem a senha converse com um de nossos atendentes.\nE se não foi você quem criou a conta em nosso site, entre em contato conosco pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

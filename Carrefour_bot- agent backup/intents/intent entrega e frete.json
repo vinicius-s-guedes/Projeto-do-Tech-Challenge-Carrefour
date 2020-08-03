@@ -1,0 +1,35 @@
+{
+  "id": "b5ffd39b-01f4-40fe-9aa8-fc21da425a5f",
+  "name": "intent entrega e frete",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/5_1 O Carrefour entrega em todo o Brasil?\n/5_2 Qual é o horário de entrega do meu pedido?\n/5_3 Posso agendar minha entrega?\n/5_4 Posso mudar o horário de entrega do meu pedido?\n/5_5 Qual é o prazo de entrega do meu pedido?\n/5_6 As entregas podem ser feitas nos fins de semana?\n/5_7 Como fica se o dia da minha entrega cair em um dia de greve geral?\n/5_8 Como os produtos são entregues?\n/5_9 O entregador sobe até o meu apartamento ou deixa os produtos na portaria?\n/5_10 Qual o nome da transportadora que faz a entrega dos pedidos?\n/5_11 Os veículos da transportadora estão adequados para o transporte de produtos congelados e refrigerados?\n/5_12 Se eu tiver algum problema com um dos entregadores, como devo proceder?\n/5_13 Como funciona o processo de entrega?\n/5_14 Carrefour realiza entregas internacionais?\n/5_15 Como acompanhar a entrega do meu pedido?\n/5_16 Existe mais de um tipo de entrega disponível na hora da compra?\n/5_17 O que acontece se não tiver ninguém no local para receber meu pedido?\n/5_18 Quem pode receber meu pedido?\n/5_19 Comprei produtos alcoólicos. Existe algum procedimento especial para o recebimento desses itens?\n/5_20 quero saber quem recebeu meu produto\n/5_21 Posso retirar meu pedido em uma loja física?\n/5_22 Meu pedido foi extraviado\n/5_23 Minha embalagem chegou vazia, sem o produto que encomendei\n/5_24 Faltou um produto do meu pedido. O que faço?\n/5_25 Um dos produtos do meu pedido não chegou e recebi uma carta informando sobre a substituição. O que isso significa?\n/5_26 O Carrefour tem frete grátis?\n/5_27 Meu frete é devolvido se eu cancelar a compra?\n/5_28 Como saber o valor do frete antes de comprar?\n/5_29 Como é definido o valor do frete?\n/5_30 Ainda não recebi o meu pedido. O que devo fazer?\n/5_31 Faltou um produto do meu pedido. O que faço?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

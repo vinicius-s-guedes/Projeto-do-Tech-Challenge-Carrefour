@@ -1,0 +1,56 @@
+[
+  {
+    "id": "665026ee-678b-4287-87be-309765cb0487",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5_7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7e55830-ed05-4ee8-936e-fdc4b6b15a83",
+    "data": [
+      {
+        "text": "5_7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88c59ed5-3bb9-49af-9ea0-2ec06867e571",
+    "data": [
+      {
+        "text": "Como fica se o dia da minha entrega cair ",
+        "userDefined": false
+      },
+      {
+        "text": "em um dia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de greve geral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "b3e36ea1-f9d5-451a-95e7-b1b885cc5f68",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "834948e2-c871-40e0-910c-f8f6029b7466",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe8f3603-41f5-401a-a125-254a2d06826e",
+    "data": [
+      {
+        "text": "E se eu perceber que ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produto está estragado depois do prazo de troca ",
+        "userDefined": false
+      },
+      {
+        "text": "de 7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "sete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ") ",
+        "userDefined": false
+      },
+      {
+        "text": "dias",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

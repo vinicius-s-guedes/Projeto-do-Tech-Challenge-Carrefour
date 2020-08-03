@@ -1,0 +1,33 @@
+[
+  {
+    "id": "c73c2bde-59fd-4682-a521-032731018636",
+    "data": [
+      {
+        "text": "como comprar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82ea41c9-5935-4fab-8f32-6db2778be579",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

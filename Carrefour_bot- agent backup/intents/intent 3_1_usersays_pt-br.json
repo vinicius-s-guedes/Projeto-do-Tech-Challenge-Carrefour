@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0db5fc88-cfd5-46c4-8f31-5e0699a4793c",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bccbd490-d1d2-4b6d-a7ec-abc04f271e9e",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "354914d5-6351-4cc0-afed-c5a21105543e",
+    "data": [
+      {
+        "text": "Como eu faço minha ",
+        "userDefined": false
+      },
+      {
+        "text": "primeira",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

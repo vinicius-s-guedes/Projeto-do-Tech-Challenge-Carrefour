@@ -1,0 +1,35 @@
+{
+  "id": "d4a2f4ba-3ea9-413d-a8fb-ffaeca32b05a",
+  "name": "intent 2_8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Acesse nosso aplicativo, faça o login e acesse o menu “Faz na loja”. Em seguida clique no ícone localizado no menu superior direito e na aba “Senha” digite a senha atual e a nova senha. Se você não consegue acessar a conta por algum motivo, entre em contato conosco pelo 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

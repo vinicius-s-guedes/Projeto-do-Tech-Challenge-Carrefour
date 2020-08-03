@@ -1,0 +1,50 @@
+{
+  "id": "ff8d5153-8fb5-44a2-9b63-c14e1d481c62",
+  "name": "categorias intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8b01540-37ef-41b3-82fb-4a57f429488e",
+          "name": "categorias",
+          "required": false,
+          "dataType": "@categorias",
+          "value": "$categorias",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Veja aqui nesse link sobre essa categoria\nNão é o que procura? Digite só o nome do produto e tentarei fazer uma busca mais completa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

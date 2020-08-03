@@ -1,0 +1,83 @@
+[
+  {
+    "id": "4afd9d3a-3c90-444e-8597-0fabe0f97c7e",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b4307be-9e6c-4793-a6fc-13667c001307",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6078413-5f25-4993-bc24-df79633a6620",
+    "data": [
+      {
+        "text": "Qual é o horário de ",
+        "userDefined": false
+      },
+      {
+        "text": "atendimento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do SAC do aplicativo do ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

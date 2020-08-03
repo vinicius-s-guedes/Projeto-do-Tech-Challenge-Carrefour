@@ -1,0 +1,28 @@
+[
+  {
+    "id": "594ade60-07ad-4ecf-b18c-2a5bc984425e",
+    "data": [
+      {
+        "text": "perguntas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d590f037-bb9c-4509-8dee-4b3121c5c71e",
+    "data": [
+      {
+        "text": "/perguntas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

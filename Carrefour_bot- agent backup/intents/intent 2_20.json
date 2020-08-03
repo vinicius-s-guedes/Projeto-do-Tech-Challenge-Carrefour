@@ -1,0 +1,35 @@
+{
+  "id": "95c90b6d-9433-4e0f-bbbb-91b371fdb3d2",
+  "name": "intent 2_20",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Push Notification, ou notificações por push, são mensagens enviadas para um dispositivo móvel -celular ou tablet - que informam os usuários sobre atualizações ou novos conteúdos de um aplicativo."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

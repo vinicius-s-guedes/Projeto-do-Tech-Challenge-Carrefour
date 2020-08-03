@@ -1,0 +1,35 @@
+{
+  "id": "25cad5d3-ab5f-4466-a77f-baa3714d8daf",
+  "name": "intent 6_9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O prazo de coleta do seu produto será estipulado de acordo com a sua região. Essa informação sempre é enviada por e-mail. Se tiver qualquer dúvida, entre em contato pelo telefone 3003-2099*.Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

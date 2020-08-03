@@ -1,0 +1,35 @@
+{
+  "id": "6f798760-f000-42fa-9f78-fb15ec7b73d5",
+  "name": "intent 6_8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Carrefour se responsabiliza pelo valor do frete na primeira troca, desde que o valor seja equivalente ao solicitado no momento da compra. Caso você mude o endereço ou o tipo de entrega, é preciso pagar a diferença, se houver. Se tiver qualquer dúvida, entre em contato pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

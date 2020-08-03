@@ -1,0 +1,74 @@
+[
+  {
+    "id": "24daffd7-8426-465b-9f7e-e056a9b36707",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bd233e05-09eb-4022-bbad-b51cb9bd0905",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd829f4f-0878-48f9-8e7e-7bcf2004b3f2",
+    "data": [
+      {
+        "text": "Qual o nome da ",
+        "userDefined": false
+      },
+      {
+        "text": "transportadora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que faz a entrega dos pedidos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

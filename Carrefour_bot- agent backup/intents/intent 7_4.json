@@ -1,0 +1,35 @@
+{
+  "id": "028f85ee-fa23-4540-a399-56faf3f2f8dd",
+  "name": "intent 7_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para escolher o produto ideal para você, faça uma pesquisa antes de comprar. No nosso aplicativo e site existem inúmeros conteúdos com dicas para ajudar a decidir o que escolher. Além disso, é importante sempre verificar o rótulo do produto para entender suas especificações, assim, você garante que ele é exatamente o que você precisa."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

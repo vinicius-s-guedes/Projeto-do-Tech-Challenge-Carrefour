@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9dfe99eb-fcc9-4dbb-aabb-d761687b62c5",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "540d6ddd-f0b0-4a1b-b040-06b139667b4f",
+    "data": [
+      {
+        "text": "serviços e ",
+        "userDefined": false
+      },
+      {
+        "text": "atendimento",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

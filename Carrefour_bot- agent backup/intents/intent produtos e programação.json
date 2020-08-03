@@ -1,0 +1,35 @@
+{
+  "id": "3a201bb7-b602-4d22-92df-7d3fde5f84b0",
+  "name": "intent produtos e programação",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/7_1 O produto que quero está indisponível. O que devo fazer?\n/7_2 Não consegui comprar na promoção\n/7_3 Encontrei o mesmo produto do aplicativo com um preço diferente na loja ou no anúncio publicitário\n/7_4 Como escolher o produto ideal?\n/7_2 Como é feita a seleção de frutas, verduras e legumes que serão enviados no meu pedido?\n/7_6 O que é o Selo Garantia de Origem Carrefour?\n/7_7 O que são os produtos “marca própria Carrefour”?\n/7_8 Como funciona o processo de qualidade dos produtos Carrefour?\n/7_9 Tenho restrições alimentares e preciso saber quais são os produtos sem glúten/sem lactose/sem açúcar/kosher/orgânicos disponíveis para compra no aplicativo.\n/7_10 Como posso verificar a lista de ingredientes de um determinado produto à venda no aplicativo?\n/7_11 O que são produtos com glúten?\n/7_12 O que são produtos transgênicos?\n/7_13 As embalagens de entrega da compra são recicláveis?\n/7_14 O site do Carrefour envia e-mails promocionais?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

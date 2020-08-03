@@ -1,0 +1,35 @@
+{
+  "id": "dea67c01-bea8-4e73-8feb-7f365e523530",
+  "name": "intent 6_19",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Carrefour se compromete a enviar o produto ao cliente exatamente como recebeu do fabricante. Assim, qualquer anomalia detectada no momento do recebimento permite a recusa do produto pelo cliente. Os pedidos podem ser recusados nas seguintes situações: 1) embalagem violada ou avariada; 2) produto avariado; 3) produto em não conformidade com o pedido; e 4) ausência de Nota Fiscal (DANFE). Nos casos de recusa de produtos, o cliente deverá anotar o motivo da recusa no verso da Nota Fiscal (DANFE) e notificar a Central de Atendimento Carrefour. Não havendo a Nota Fiscal (DANFE), o cliente deve recusar a entrega do produto e entrar em contato com a Central de Atendimento para informar o motivo da recusa. Caso o pedido seja recebido mesmo contendo alguma das ocorrências listadas, será necessário entrar em contato com a Central de Atendimento no prazo de até 2 (dois) dias úteis a partir do recebimento. Entre em contato conosco pelo telefone 3003-2099* para mais informações. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

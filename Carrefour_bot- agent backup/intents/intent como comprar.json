@@ -1,0 +1,35 @@
+{
+  "id": "f85cb1d1-ab61-4a7a-9c68-9d8824f53b6b",
+  "name": "intent como comprar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/3_1 Como eu faço minha primeira compra?\n/3_2 Como comprar no aplicativo?\n/3_3 Quais produtos posso comprar no aplicativo?\n/3_4 Posso comprar pelo aplicativo e retirar os produtos em uma das lojas físicas?\n/3_5 Posso comprar pelo telefone?\n/3_6 Como encontrar um produto no aplicativo?\n/3_7 Posso comprar os mesmos produtos oferecidos pelo “Mercado até Você” no site do Carrefour?\n/3_8 Quero comprar um produto, mas ele não aparece no aplicativo\n/3_9 Quero comprar um produto que está disponível no aplicativo e indisponível pela compra\n/3_10 Quanto tempo o produto fica no carrinho de compras?\n/3_11 Como comprar com desconto?\n/3_12 Vocês vendem por atacado? Há um canal de vendas para clientes PJ (CNPJ)?\n/3_13 Posso encontrar produtos de uma mesma marca e categoria à venda no “Mercado até Você” e no site Carrefour simultaneamente?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

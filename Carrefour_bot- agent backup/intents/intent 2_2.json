@@ -1,0 +1,35 @@
+{
+  "id": "542a18f3-58d8-4995-9b3c-0f8f66d477b3",
+  "name": "intent 2_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Primeiramente baixe o aplicativo “Carrefour Brasil”, disponível na Play Store (para o sistema operacional Android) e na App Store (para o sistema operacional iOS).\nLink Google Play\nhttps://play.google.com/store/apps/details?id\u003dbr.com.carrefour\nLink iTunes: \nhttps://itunes.apple.com/br/app/carrefour-brasil/id1165071392?l\u003den\u0026mt\u003d8\nPara o cadastro, você precisará informar seus dados pessoais e criar uma senha de acesso."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

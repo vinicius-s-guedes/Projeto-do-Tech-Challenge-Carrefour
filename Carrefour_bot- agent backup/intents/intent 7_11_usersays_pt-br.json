@@ -1,0 +1,71 @@
+[
+  {
+    "id": "608ede76-41fa-42bc-9acf-983ccb984c9b",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8201a9f7-996c-4eca-8a72-8f1930d99584",
+    "data": [
+      {
+        "text": "/",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c11ec153-d256-4ef4-a647-652d756a418d",
+    "data": [
+      {
+        "text": "O que são produtos com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " glúten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

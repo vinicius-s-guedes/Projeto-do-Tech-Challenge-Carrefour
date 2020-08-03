@@ -1,0 +1,35 @@
+{
+  "id": "2593bdb4-740a-40d1-bf51-1c4ab12994cc",
+  "name": "intent 2_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Você pode acessar os seus dados se estiver logado na área “Meu Carrefour”. Para fazer o login acesse o menu “Faz na loja” e clique no ícone superior direito. Nessa página, você encontrará todas as informações referentes à sua conta, como dados de cadastro e senha."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

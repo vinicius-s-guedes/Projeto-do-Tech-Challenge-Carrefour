@@ -1,0 +1,35 @@
+{
+  "id": "5e35e0d3-2ab5-4cb5-b013-0d03dcd00d3f",
+  "name": "intent 5_25",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No momento de separação do seu pedido, quando não encontramos um produto solicitado durante a compra em nosso estoque, substituímos ele por outro similar, de valor igual ou maior, sem nenhum custo adicional. Se precisar de qualquer outro esclarecimento, nossa equipe de atendimento está à sua disposição pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

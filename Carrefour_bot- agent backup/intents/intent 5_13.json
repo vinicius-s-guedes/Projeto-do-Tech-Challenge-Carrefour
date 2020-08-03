@@ -1,0 +1,35 @@
+{
+  "id": "5d2c83c0-17bc-44dc-853a-711fec8ced4e",
+  "name": "intent 5_13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nossa equipe separa os produtos de acordo com o horário programado para a entrega, com o objetivo de conservar mais adequadamente cada item. Assim que um pedido é processado e fica pronto, o Carrefour prepara a entrega o mais rápido possível conforme o horário agendado."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

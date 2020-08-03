@@ -1,0 +1,35 @@
+{
+  "id": "e55721d0-769f-4ef3-8cb9-01f8ba34f60d",
+  "name": "intent perguntas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/1 PERGUNTAS FREQUENTES\n/2 ACESSO, SEGURANÇA E CADASTRO\n/3 COMO COMPRAR\n/4 PEDIDO E PAGAMENTO\n/5 ENTREGA E FRETE\n/6 TROCA, CANCELAMENTO E DEVOLUÇÃO\n/7 PRODUTOS E PROMOÇÕES\n/8 SERVIÇOS E ATENDIMENTO"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

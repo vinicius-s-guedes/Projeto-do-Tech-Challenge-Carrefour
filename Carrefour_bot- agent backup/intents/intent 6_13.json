@@ -1,0 +1,35 @@
+{
+  "id": "a21ef3c6-e854-452b-ba54-ef2ae24300ec",
+  "name": "intent 6_13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Qualquer pessoa maior de 18 anos que esteja no endereço no momento da coleta pode devolver o seu produto. Será necessário um documento de identificação para a assinatura do protocolo de retirada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

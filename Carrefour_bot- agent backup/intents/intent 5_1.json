@@ -1,0 +1,35 @@
+{
+  "id": "16c34abb-a819-43d4-bcb5-c278614a630b",
+  "name": "intent 5_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Por enquanto, atendemos a diversos bairros de São Paulo. Para confirmar se já entregamos na sua região, acesse o aplicativo do “Mercado até Você” [inserir local no app onde está a info] e digite o seu CEP."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

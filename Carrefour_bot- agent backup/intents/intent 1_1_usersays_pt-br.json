@@ -1,0 +1,43 @@
+[
+  {
+    "id": "6ff4145a-4d9d-49cf-b8f8-c1dd24a0bbf2",
+    "data": [
+      {
+        "text": "1_1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5751c9d7-871c-423d-b407-4d083742fa46",
+    "data": [
+      {
+        "text": "/1_1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f663f38b-d569-4f87-a7c3-6f56d56784fa",
+    "data": [
+      {
+        "text": "Como comprar no aplicativo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

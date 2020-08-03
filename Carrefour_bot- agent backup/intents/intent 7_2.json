@@ -1,0 +1,35 @@
+{
+  "id": "81b9d931-1f42-4455-ab6a-0b012bfe39e3",
+  "name": "intent 7_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nossas promoções têm tempo limitado. Para não perder as próximas, cadastre-se para receber ofertas e novidades do Grupo Carrefour por e-mail ou SMS selecionando a opção “Aceito receber notificações e SMS com ofertas e novidades do Grupo Carrefour” localizada no final do cadastro. Qualquer outra informação estamos à disposição no telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

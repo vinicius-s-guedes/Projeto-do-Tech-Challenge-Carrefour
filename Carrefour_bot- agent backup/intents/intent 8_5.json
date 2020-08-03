@@ -1,0 +1,35 @@
+{
+  "id": "41351eec-cd44-4b58-bcef-d7f6da1a39fa",
+  "name": "intent 8_5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se você quer encontrar o Carrefour ideal para o que você procura, acesse o aplicativo “Mercado até Você” e clique em \"Meu Carrefour\", depois no menu “Faz na loja”. Em seguida clique em “Localizador de lojas” onde você pesquisa as lojas mais próximas de acordo com a sua localização atual e encontra todos os nossos endereços."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

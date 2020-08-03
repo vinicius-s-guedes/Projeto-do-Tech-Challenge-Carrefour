@@ -1,0 +1,35 @@
+{
+  "id": "4816743d-2ab0-4949-a672-c10edb16726f",
+  "name": "intent 2_7",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Você deve estar logado para realizar essa ação. Sempre que precisar, você pode acessar o menu “Faz na loja” clicando no ícone localizado no canto superior direito e depois na aba “Dados pessoais” e em seguida em “Alterar dados”. Lembrando que os campos de CPF, data de nascimento e e-mail não podem ser alterados. Se você não consegue acessar a conta por algum motivo, entre em contato conosco pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

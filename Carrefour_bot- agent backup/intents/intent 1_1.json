@@ -1,0 +1,35 @@
+{
+  "id": "7449af02-57e2-4e20-9018-422dcb6570ac",
+  "name": "intent 1_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "É bem simples comprar no nosso aplicativo. Acesse o menu “Faz em Casa” e em seguida clique no topo da página no banner “Mercado até você”. Navegue pelas categorias, ou através do campo de busca, para escolher os itens. Ao encontrar o produto desejado clique em “Adicionar” e ajuste a quantidade pretendida nos botões [+] e [x]. Para verificar todos os produtos selecionados clique no “Carrinho”, localizado na barra vermelha na parte de baixo da tela, e em seguida clique em “Comprar”. Depois indique o CEP do seu endereço e confirme se ele está dentro da área de entrega. Se sim, preencha todos os campos complementares e clique em “Salvar”. No próximo passo selecione o dia e horário de entrega de sua preferência e clique em “Continuar”. Para finalizar o pedido informe o meio de pagamento. E se você tiver qualquer dúvida durante esse processo entre em contato conosco através do telefone 3003-2099*, de segunda a sábado das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

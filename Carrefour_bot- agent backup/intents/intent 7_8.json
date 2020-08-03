@@ -1,0 +1,35 @@
+{
+  "id": "44e6755d-47d2-4eaa-97bb-08592baee629",
+  "name": "intent 7_8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para garantir a qualidade dos produtos que você leva para casa, nosso processo de produção engloba as seguintes fases: Pesquisa de mercado, Teste sensorial, Auditoria de fábrica, Análise laboratorial, Desenvolvimento da embalagem, Primeira produção e Entrega nas lojas Carrefour. Confira mais em \u003cinserir link do site Carrefour\u003e."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

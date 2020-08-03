@@ -1,0 +1,35 @@
+{
+  "id": "ad966c66-a09a-4eea-9701-18b1aa27eeff",
+  "name": "intent 2_13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Você pode desinstalar o aplicativo e desativar o seu login, mas não podemos excluir todos os seus dados de nosso sistema. Isso acontece porque toda compra feita no aplicativo Carrefour é vinculada a um CPF - ou seja, todas as nossas Notas Fiscais estão vinculadas a esse mesmo número. Se o excluíssemos de nosso banco de dados, teríamos problemas com o fisco. Portanto, você pode se descadastrar, mas manteremos alguns dos seus dados. Para fazer isso, entre em contato pelo telefone 3003-2099* e faça essa solicitação para um de nossos atendentes. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

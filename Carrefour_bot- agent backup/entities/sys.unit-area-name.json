@@ -1,0 +1,9 @@
+{
+  "id": "ed768532-7404-49f3-b73b-4fce6400f333",
+  "name": "sys.unit-area-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

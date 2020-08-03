@@ -1,0 +1,35 @@
+{
+  "id": "e8cb9489-52f2-478f-a97a-ade2cbe17dcc",
+  "name": "intent 3_12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Somos uma empresa varejista e nossas vendas são destinadas apenas para o consumo próprio. Os produtos oferecidos pelo “Mercado até Você” são voltados para pessoas físicas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

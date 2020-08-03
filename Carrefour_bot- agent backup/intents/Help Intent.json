@@ -1,0 +1,35 @@
+{
+  "id": "5e4525e4-b4a4-4b8e-b581-03429b4a098c",
+  "name": "Help Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Digite sua pergunta e tentarei te responder, tente usar palavras chaves para facilitar minha compreensão.\n\nEu aprendo rápido, mas ainda tenho dificuldade.\nDigite /perguntas, para listar as perguntas frequente dos cliente da Carrefour"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

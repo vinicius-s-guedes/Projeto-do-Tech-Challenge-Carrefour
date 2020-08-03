@@ -1,0 +1,33 @@
+[
+  {
+    "id": "a24d3548-3004-488e-99f6-fcdcbbcb337d",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "10dc0195-1681-4fed-8e5d-bb30e0660bef",
+    "data": [
+      {
+        "text": "produtos e programação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

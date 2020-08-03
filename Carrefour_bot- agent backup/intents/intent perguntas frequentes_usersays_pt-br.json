@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ed412a31-3265-4066-a09d-c485960de7ac",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f73cebe9-0963-4991-927e-51af0a5203e5",
+    "data": [
+      {
+        "text": "PERGUNTAS FREQUENTES",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

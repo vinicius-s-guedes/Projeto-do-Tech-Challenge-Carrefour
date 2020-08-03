@@ -1,0 +1,35 @@
+{
+  "id": "0009b477-da24-4946-8f37-7b9b3cc39713",
+  "name": "intent 7_14",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Enviamos ofertas e novidades do Grupo Carrefour por e-mail e por SMS. Se quiser recebê-las, altere as suas configurações no menu “Faz na loja” acessando o ícone localizado no menu superior direito. Na aba “Dados pessoais” clique em “Alterar dados”. Abaixo dos campos de telefone e e-mail você pode ativar as opções de recebimento das notificações."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

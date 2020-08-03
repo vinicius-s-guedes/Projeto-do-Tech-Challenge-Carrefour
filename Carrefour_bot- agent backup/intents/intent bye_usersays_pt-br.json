@@ -1,0 +1,69 @@
+[
+  {
+    "id": "c40ff437-055b-4dc6-a8c9-59bd57c68a95",
+    "data": [
+      {
+        "text": "vlw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e722b1d-2caf-4f88-b86b-3b7422516058",
+    "data": [
+      {
+        "text": "flw",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "69a18075-1df5-45af-ae8f-ccf2d4c9dfd0",
+    "data": [
+      {
+        "text": "obrigado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c391639d-5ffa-4b53-aae2-9210f335d70d",
+    "data": [
+      {
+        "text": "tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a0f01ab0-0b85-46cf-ba44-0bc413d66ad0",
+    "data": [
+      {
+        "text": "bye",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

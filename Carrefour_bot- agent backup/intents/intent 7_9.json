@@ -1,0 +1,35 @@
+{
+  "id": "14d373b1-e2a0-4936-b4c3-f34c4ba37302",
+  "name": "intent 7_9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No caso de restrições alimentares, antes de consumir qualquer produto, sugerimos consultar um profissional de saúde de sua confiança para uma melhor avaliação. Somente um médico ou nutricionista pode indicar os produtos mais adequados para atender às suas necessidades alimentares. Você pode também visualizar o rótulo e consultar a lista de ingredientes dos produtos comercializados em nosso aplicativo clicando na imagem do produto desejado."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

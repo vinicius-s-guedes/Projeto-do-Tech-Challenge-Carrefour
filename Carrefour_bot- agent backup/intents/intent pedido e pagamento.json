@@ -1,0 +1,35 @@
+{
+  "id": "27724912-1409-4d52-be01-a7162b236e89",
+  "name": "intent pedido e pagamento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/4_1 Quais os meios de pagamento que vocês disponibilizam?\n/4_2 Há valor mínimo para o pedido?\n/4_3 Como fico sabendo se meu pedido foi aprovado?\n/4_4 Estava fazendo o meu pedido, mas o sistema caiu\n/4_5 Como posso acompanhar o andamento do meu pedido?\n/4_6 Posso pagar minha compra parcelada? Qual o valor mínimo?\n/4_7 Qual é o valor mínimo para parcelamento?\n/4_8 Posso efetuar o pagamento com mais de um cartão de crédito?\n/4_9 Meu cartão foi recusado. O que devo fazer?\n/4_10 Efetuei um pagamento em duplicidade. O que faço?\n/4_11 Minha compra foi cancelada. Existe algum problema com meus dados?\n/4_12 O meu pedido foi cobrado duas vezes na fatura do cartão\n/4_13 Como visualizo a nota fiscal do meu pedido?\n/4_14 Como faço para pedir a inclusão do CPF para a Nota Fiscal Paulista?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

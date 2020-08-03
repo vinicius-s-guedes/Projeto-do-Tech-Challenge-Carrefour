@@ -1,0 +1,35 @@
+{
+  "id": "8b9ef2e0-6ac4-4ce5-b63b-57fca46fc3af",
+  "name": "intent 7_3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os valores podem ser diferentes porque não temos como garantir os mesmos preços nos diferentes canais de venda. Diversos fatores podem influenciar o valor final de um produto – tais como localidade, disponibilidade de estoque, promoções etc."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f0ab8f55-d018-4a5b-a396-742594e69939",
+  "name": "intent 5_28",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Após adicionar o produto desejado no carrinho e passar pela tela do endereço de entrega você pode visualizar o valor do frete ao escolher o melhor horário para levarmos suas compras."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

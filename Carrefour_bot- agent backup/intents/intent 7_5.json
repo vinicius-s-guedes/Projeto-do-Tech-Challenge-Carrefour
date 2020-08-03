@@ -1,0 +1,35 @@
+{
+  "id": "5c163b1a-50d4-4304-aeca-b00da47e45cb",
+  "name": "intent 7_5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A preocupação do “Mercado até Você” com a qualidade dos seus produtos começa na seleção dos fornecedores e na fiscalização de todas as etapas de produção de cada alimento. Cada fruta, verdura e legume é inspecionado de perto e escolhido para garantir a mais alta qualidade. Os produtos hortifruti são livres de aditivos, hormônios, resíduos de defensivos e de quaisquer tipos de substâncias que possam alterar suas características naturais. Caso você note um produto fora do padrão de qualidade em sua compra, entre em contato com o nosso atendimento para fazer a troca. Ligue para 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

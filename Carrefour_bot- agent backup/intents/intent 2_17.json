@@ -1,0 +1,35 @@
+{
+  "id": "52d2b1f5-aaf9-46df-8431-43f19d778953",
+  "name": "intent 2_17",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sim. O Carrefour respeita o sigilo de suas informações e garante que seus dados não serão disponibilizados, cedidos ou comercializados para terceiros. Todas as informações fornecidas em nosso aplicativo são de uso exclusivo para compra, personalização e facilitação dos processos de transação monetária. Para garantir a proteção de seus dados, nosso sistema utiliza as melhores práticas de segurança da informação. Assim, toda transação feita em nosso aplicativo é criptografada (isto é, protegida contra o acesso de terceiros) e certificada pelas maiores empresas do ramo. Não se preocupe, você pode comprar com tranquilidade. Confira nossa Política de Privacidade e, se ainda restar alguma dúvida, estamos à disposição."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a420bd8b-5b2f-4823-adcd-78f4bd11ba55",
+  "name": "intent 6_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A troca de produtos não duráveis pode ser feita em até 30 (trinta) dias contados da data de recebimento do produto, desde que esteja em desacordo com as especificações constantes do pedido ou apresentando problema de qualidade ou quantidade. No caso de produtos com prazo de validade inferior a 30 (trinta) dias, a solicitação de troca do produto com defeito deverá ser efetuada antes da data de expiração da validade, como é o caso de carnes, pães, frios, entre outros. Para os produtos da categoria hortifruti, em que a lei dispensa a colocação de prazo de validade na rotulagem, a troca deverá ser solicitada dentro do prazo de 24 (vinte e quatro) horas. As comunicações acerca de produtos com defeito devem ser realizadas, nos prazos acima especificados, para a nossa Central de Atendimento pelo telefone 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

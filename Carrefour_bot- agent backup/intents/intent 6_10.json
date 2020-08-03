@@ -1,0 +1,35 @@
+{
+  "id": "1b0f05af-2c57-44eb-aba1-7a49b31ea36c",
+  "name": "intent 6_10",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Uma de nossas transportadoras vai até o endereço solicitado para retirar o produto. Portanto, é preciso haver uma pessoa autorizada, maior de 18 anos, presente no lugar indicado. Se continuar com alguma dúvida, entre em contato pelo telefone 3003-2099*.\nHorário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

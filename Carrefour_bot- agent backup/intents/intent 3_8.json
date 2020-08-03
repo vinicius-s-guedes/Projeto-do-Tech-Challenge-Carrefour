@@ -1,0 +1,35 @@
+{
+  "id": "bda01202-5700-4b81-8d01-723d3b5598e4",
+  "name": "intent 3_8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Constantemente revisamos as mercadorias comercializadas em nosso aplicativo e atualizamos a oferta de produtos para você ter uma melhor experiência de compra. Por isso, nada impede que um novo produto seja disponibilizado em breve. Os produtos oferecidos no aplicativo podem ser diferentes do site, pois não temos como garantir as mesmas ofertas nos distintos canais de venda. Muitos fatores podem influenciar o sortimento dos itens, tais como localidade, disponibilidade de estoque, promoções etc.\nSe você deseja fazer uma sugestão, entre em contato conosco pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

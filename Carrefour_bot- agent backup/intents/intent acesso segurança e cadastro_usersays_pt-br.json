@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ae16729e-e0c3-42b2-876c-3a34b235d5d6",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02b6e3fd-e703-4351-aad9-9275b36cde2f",
+    "data": [
+      {
+        "text": "acesso segurança",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " e cadastro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

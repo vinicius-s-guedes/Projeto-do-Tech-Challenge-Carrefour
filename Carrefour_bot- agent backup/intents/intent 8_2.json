@@ -1,0 +1,35 @@
+{
+  "id": "659baf27-c06f-4774-b3c1-2e853b96c8d9",
+  "name": "intent 8_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O decreto sobre o número de protocolo do atendimento diz respeito apenas às operadoras de serviços reguladas pelo poder público federal – entre elas, energia elétrica, telefonia, TV a cabo, bancos, cartões de crédito e planos de saúde. Para localizar o seu cadastro ou atendimento, utilizamos dados pessoais como o seu nome, CPF, e-mail ou o número do seu pedido. De todo modo, nosso atendimento está preparado para fornecer o número do protocolo durante o contato."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

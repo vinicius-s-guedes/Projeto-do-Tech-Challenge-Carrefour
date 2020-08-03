@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f843aec1-e349-4238-91cc-fc9655ab4eff",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e6df6a6-4de6-4791-996c-9a11aa6c062e",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "027449b0-d233-482e-b299-da46dbad2a82",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "transportadora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coletará o meu produto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

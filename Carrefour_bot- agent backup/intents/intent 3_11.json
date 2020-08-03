@@ -1,0 +1,35 @@
+{
+  "id": "89ac2e05-c9f4-47f6-b3ff-d4e2ece9912d",
+  "name": "intent 3_11",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Acompanhe nosso aplicativo e conheça as promoções vigentes. Se quiser receber ofertas e novidades do Grupo Carrefour por e-mail ou SMS acesse o menu “Faz na loja” e clique no ícone localizado no menu superior direito. Na aba “Dados pessoais” clique em “Alterar dados”. Abaixo dos campos de telefone e e-mail você pode ativar as opções de recebimento de notificações por SMS e de ofertas e novidades do Grupo Carrefour. E não deixe de acompanhar também nossas ofertas de lojas físicas, acessando o menu “Faz na loja” e o ícone “Mais ofertas” localizado na área de “Ofertas da loja”."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

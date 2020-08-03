@@ -1,0 +1,35 @@
+{
+  "id": "79b3f948-d711-409e-a46b-cbf377303a00",
+  "name": "intent 2_16",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se você não quiser mais receber e-mails com nossas ofertas, acesse o menu “Faz na loja” e clique no ícone localizado no menu superior direito. Na aba “Dados pessoais” clique em “Alterar dados”. Abaixo dos campos de telefone e e-mail você pode desativar as opções de recebimento de notificações por SMS e de ofertas e novidades do Grupo Carrefour. Qualquer dúvida entre em contato pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

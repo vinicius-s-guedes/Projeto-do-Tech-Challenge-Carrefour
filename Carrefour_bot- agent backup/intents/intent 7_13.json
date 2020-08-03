@@ -1,0 +1,35 @@
+{
+  "id": "27accee2-7e83-4c36-bcbc-baa33d3b2891",
+  "name": "intent 7_13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As sacolas de papel e papelão podem ser facilmente recicladas. Já as embalagens de papel metalizado podem ser reutilizadas. Para incentivar o descarte consciente, temos estações de reciclagem em várias de nossas lojas. \u003cinserir link do site Carrefour\u003e."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

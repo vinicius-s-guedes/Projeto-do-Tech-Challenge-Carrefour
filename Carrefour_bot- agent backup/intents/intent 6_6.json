@@ -1,0 +1,35 @@
+{
+  "id": "3b7e296f-d5cd-4962-96b3-370452dc8281",
+  "name": "intent 6_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para solicitar a troca de um pedido efetuado no aplicativo Carrefour, você tem até 7 (sete) dias corridos, contados a partir da data de recebimento do produto. A troca deverá ser feita por meio de nossa Central de Atendimento pelo telefone 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

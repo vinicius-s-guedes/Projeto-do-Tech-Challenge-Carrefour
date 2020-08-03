@@ -1,0 +1,35 @@
+{
+  "id": "c9c04d13-52cb-4556-b8bd-966131746938",
+  "name": "intent 5_18",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Qualquer pessoa que estiver no endereço indicado pode receber o seu pedido, desde que seja maior de 18 anos e tenha um documento de identificação. Será necessário assinar o comprovante de recebimento."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

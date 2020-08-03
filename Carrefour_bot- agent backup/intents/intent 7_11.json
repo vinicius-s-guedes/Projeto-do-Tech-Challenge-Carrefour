@@ -1,0 +1,35 @@
+{
+  "id": "7b3a1be3-5673-4bf4-8a99-bb5997eff0b3",
+  "name": "intent 7_11",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O glúten é uma proteína encontrada em cereais como trigo, centeio e cevada e, portanto, pode estar presente em massas, pães, bolos e biscoitos. Pessoas intolerantes ao glúten, chamadas de “celíacas”, costumam apresentar desconfortos como inflamação do intestino, dores articulares e indisposições. No caso de restrições alimentares – incluindo a restrição ao glúten -, o ideal é, antes de consumir qualquer produto, consultar um profissional de saúde de sua confiança para uma melhor avaliação."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

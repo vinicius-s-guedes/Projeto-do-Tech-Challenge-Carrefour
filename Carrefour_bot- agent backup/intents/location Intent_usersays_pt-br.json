@@ -1,0 +1,100 @@
+[
+  {
+    "id": "e9dfe0cf-032c-407e-a898-c465b89cf407",
+    "data": [
+      {
+        "text": "/localização",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2752b67e-8267-4343-86da-c98ca059796b",
+    "data": [
+      {
+        "text": "localização",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2b36af06-fbfc-4623-a60c-dd0c64bc1c81",
+    "data": [
+      {
+        "text": "carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e953cf1f-9a4f-49bb-9449-a0e95e9aa103",
+    "data": [
+      {
+        "text": "qual é o mais próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1a732d1a-02f3-42d5-a6d4-12bcb73bedee",
+    "data": [
+      {
+        "text": "onde fica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8ae62e98-f369-429c-acd5-52f3466ba827",
+    "data": [
+      {
+        "text": "próximo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02a73048-90aa-4884-b6ef-0f0ef7507739",
+    "data": [
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " mais próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

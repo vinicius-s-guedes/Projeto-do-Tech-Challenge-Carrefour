@@ -1,0 +1,35 @@
+{
+  "id": "b34815c8-fe2d-4acf-b954-5ad9d8362f94",
+  "name": "intent 3_10",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se você tiver feito o login, a informação ficará guardada e o produto não sairá do carrinho a não ser que você o exclua. No entanto, é importante lembrar que não há garantia de estoque durante este período."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

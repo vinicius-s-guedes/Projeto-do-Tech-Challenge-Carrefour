@@ -1,0 +1,35 @@
+{
+  "id": "35fa1226-fd96-458e-9727-40225bb3fcc5",
+  "name": "intent 1_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se tiver alguma dúvida após consultar o andamento do seu pedido no aplicativo converse com um de nossos atendentes pelo telefone 3003-2099*. *Horário de atendimento: de segunda a sábado, das 7h às 22h. Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

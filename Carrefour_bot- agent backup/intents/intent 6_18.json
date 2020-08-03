@@ -1,0 +1,35 @@
+{
+  "id": "ee6434ee-605a-4c11-8eff-545b4b61a110",
+  "name": "intent 6_18",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Em caso de desistência, o estorno ou devolução do valor pago será efetuado no cartão utilizado para pagamento da compra. O estorno cai em até duas faturas subsequentes, a depender de a data de solicitação ter sido feita antes ou depois do fechamento da sua fatura. Este prazo é necessário para que o trâmite burocrático seja realizado entre as operadoras de meios de pagamento e o Carrefour. Se continuar com alguma dúvida, entre em contato pelo telefone 3003-2099*. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

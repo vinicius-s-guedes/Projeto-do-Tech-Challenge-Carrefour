@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b88ce0e3-ca76-4a70-85e5-a8115905657f",
+    "data": [
+      {
+        "text": "/strat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2bf7b3a4-bf5c-417e-b829-4a995df42682",
+    "data": [
+      {
+        "text": "carrefour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7976b8b9-c0a8-423a-bd10-8cb7a298e849",
+    "data": [
+      {
+        "text": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

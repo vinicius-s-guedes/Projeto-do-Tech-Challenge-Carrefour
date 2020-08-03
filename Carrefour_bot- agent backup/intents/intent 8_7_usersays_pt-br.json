@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6b2a42ce-e59f-4864-8e5a-c7c3804dce2a",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b40d2b0-1914-40e5-87c2-1def69a4a6ac",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42626ae8-abc2-422f-91d6-7ee29b566620",
+    "data": [
+      {
+        "text": "Quero conhecer as instalações do centro de distribuição do “",
+        "userDefined": false
+      },
+      {
+        "text": "Mercado",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " até Você”. Vocês oferecem visitas guiadas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "33943229-5fde-406c-8ac6-50a18a39af84",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17b6fb77-99bd-4814-8f12-0eed8bfb203d",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "825369a2-a75b-4ea2-808d-b9ccd6c7578f",
+    "data": [
+      {
+        "text": "Posso retirar meu pedido em ",
+        "userDefined": false
+      },
+      {
+        "text": "uma loja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " física?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

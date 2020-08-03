@@ -1,0 +1,35 @@
+{
+  "id": "34fce8fd-d24b-4f9e-a2bb-bf58e0237d8c",
+  "name": "intent 7_7",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nossa linha engloba alimentos de qualidade que vão desde produtos da cesta básica até geleias, iogurtes, barras de cereais, temperos, molhos, doces, biscoitos, produtos de limpeza, artigos para festas, pequenos consertos para o lar, utensílios para faxina e muito mais. As nossas linhas de produtos são: Carrefour Selection, Carrefour Viver, Carrefour Kids, Carrefour Baby, Carrefour Discount e Tex. Confira mais em \u003cinserir link do site Carrefour\u003e."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c681ff25-8cad-476e-ac0b-cdc6983360fa",
+  "name": "intent 2_21",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sim, o Carrefour pode enviar mensagens para o seu dispositivo móvel para informar sobre o status da sua compra, mudanças cadastrais, atualizações ou novos conteúdos do aplicativo “Mercado até Você”."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

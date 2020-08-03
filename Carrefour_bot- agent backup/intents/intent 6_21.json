@@ -1,0 +1,35 @@
+{
+  "id": "6793544f-171c-43cd-b29c-c52f0003dc94",
+  "name": "intent 6_21",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se o produto adquirido apresentar dano após sete dias, a contar da data do recebimento, mas dentro do prazo de garantia do fabricante, você deverá entrar em contato com o fabricante para comunicar a ocorrência e obter esclarecimentos. Caso não consiga contato com o fabricante, avise o nosso Atendimento pelo telefone através do telefone 3003-2099*.\nHorário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

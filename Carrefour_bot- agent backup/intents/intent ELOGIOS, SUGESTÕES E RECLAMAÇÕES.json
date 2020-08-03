@@ -1,0 +1,35 @@
+{
+  "id": "123e694f-af08-4e3e-a9e0-fd0cca320938",
+  "name": "intent ELOGIOS, SUGESTÕES E RECLAMAÇÕES",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nosso principal objetivo é oferecer uma ótima experiência de compra para você. Conhecer sua opinião nos estimula a seguir oferecendo um serviço de qualidade. Esperamos os seus comentários pela Central de Atendimento 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

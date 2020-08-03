@@ -1,0 +1,111 @@
+[
+  {
+    "id": "3f332eff-894a-4fd4-bb6d-d1d7f3d037c1",
+    "data": [
+      {
+        "text": "como",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02da3bae-9511-4e97-b4f4-98cff3f7de97",
+    "data": [
+      {
+        "text": "manual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd61f831-3e98-4210-b9c3-35d75d365fac",
+    "data": [
+      {
+        "text": "preciso de ",
+        "userDefined": false
+      },
+      {
+        "text": "ajuda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42a31d6f-cbcc-4953-b603-810a3c2cf886",
+    "data": [
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f12db711-3d88-4e7c-bc05-800e5387570a",
+    "data": [
+      {
+        "text": "ajuda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f92ed90-8cb2-47ec-805e-7f0f06ba977f",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "ajuda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3afae95d-f400-4969-bdec-f51a2f42bb1d",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

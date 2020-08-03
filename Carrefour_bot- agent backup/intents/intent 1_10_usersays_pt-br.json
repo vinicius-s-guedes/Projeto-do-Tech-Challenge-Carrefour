@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0c57a528-8f1d-4078-b8aa-0ac3f2ada5a3",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9f669c6-2b29-460c-90c9-e2a8f560f433",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9903b66c-a04a-4846-80dc-ec6136a83a3e",
+    "data": [
+      {
+        "text": "Meu produto chegou quebrado/com ",
+        "userDefined": false
+      },
+      {
+        "text": "a embalagem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " danificada.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

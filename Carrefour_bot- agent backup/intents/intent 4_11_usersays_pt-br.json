@@ -1,0 +1,74 @@
+[
+  {
+    "id": "de7b3e0e-4fe4-464f-873e-8c185ac69339",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "92252268-c4a2-4537-952c-af9c85c7ccc4",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a125c274-079e-4179-b674-448c9a64dd3c",
+    "data": [
+      {
+        "text": "Minha compra ",
+        "userDefined": false
+      },
+      {
+        "text": "foi cancelada. Existe algum problema com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meus dados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

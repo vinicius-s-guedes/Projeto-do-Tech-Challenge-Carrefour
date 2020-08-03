@@ -1,0 +1,35 @@
+{
+  "id": "bc92bc0e-a23d-4885-9e7c-ddfd5605fad3",
+  "name": "intent 8_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para dúvidas sobre o aplicativo, ligue para 3003-2099*.\nPara dúvidas sobre o site, ligue para 3003-2288**.\nPara dúvidas sobre as lojas físicas, ligue para 0800-724-2822***.\nPara dúvidas sobre o Cartão Carrefour, ligue 4004-6200 (São Paulo e Regiões Metropolitanas) e 0800 709 6200 (Demais localidades)****.\n*Horário de atendimento: de segunda a sábado, das 7h às 22h. Exceto feriados nacionais.\n**Horário de atendimento: de segunda a sábado, das 9h às 22h. Exceto feriados nacionais.\n***Horário de atendimento: todos os dias, das 9h às 22h. Exceto feriados nacionais.\n******Horário de atendimento: de segunda a sábado, das 8h às 22h. Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

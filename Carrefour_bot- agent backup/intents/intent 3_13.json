@@ -1,0 +1,35 @@
+{
+  "id": "b97737f4-ec13-4915-9109-4e9f4a8a3e2c",
+  "name": "intent 3_13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os produtos oferecidos no “Mercado até Você” podem ser diferentes dos disponibilizados no Carrefour.com.br. O sortimento e as ofertas podem mudar de acordo com o canal de venda, de forma a oferecer diferentes soluções de compra."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

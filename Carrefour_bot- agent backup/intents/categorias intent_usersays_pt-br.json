@@ -1,0 +1,51 @@
+[
+  {
+    "id": "6bc5e934-131c-4c7e-875a-87b3bd7b91c6",
+    "data": [
+      {
+        "text": "onde encontro ",
+        "userDefined": false
+      },
+      {
+        "text": "categoria",
+        "meta": "@categorias",
+        "alias": "categorias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbb4e02d-96ce-4707-99d6-bab1c7d85b1b",
+    "data": [
+      {
+        "text": "notebook",
+        "meta": "@categorias",
+        "alias": "categorias",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3a15e3f-acbc-46e1-9b43-57a8c8137683",
+    "data": [
+      {
+        "text": "categoria",
+        "meta": "@categorias",
+        "alias": "categorias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "f50e35b8-6895-40ba-9803-f2afb2873bdf",
+  "name": "intent serviços e atendimento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/8_1 Qual é o horário de atendimento do SAC do aplicativo do Carrefour?\n/8_2 Qual o número de protocolo do meu atendimento?\n/8_3 O sistema está inoperante e não consigo acessar o aplicativo e comprar.\n/8_4 Quais são os números de telefone do atendimento Carrefour?\n/8_5 Como encontrar a loja do Carrefour mais próxima?\n/8_6 Quais são os números de telefone do Cartão Carrefour?\n/8_7 Quero conhecer as instalações do centro de distribuição do “Mercado até Você”. Vocês oferecem visitas guiadas?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "343055d6-f2b3-4ba6-ba61-f5177c397794",
+  "name": "intent 4_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Assim que a instabilidade no sistema for resolvida, você poderá finalizar seu pedido. Nossa equipe está sempre atenta e se esforça para resolver esse tipo de situação o mais rápido possível."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

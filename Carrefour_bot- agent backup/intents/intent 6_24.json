@@ -1,0 +1,35 @@
+{
+  "id": "be5125cd-3c86-4a75-b262-bf4e1bf2322a",
+  "name": "intent 6_24",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Carrefour só cancela um pedido em caso de segurança. Confira se recebeu algum e-mail com essa notificação. Você também pode acompanhar o andamento detalhado do seu pedido no menu “Faz do seu jeito” clicando em “Ver todas” na área roxa da página. Caso não esteja visualizando essa informação, entre em contato conosco pelo telefone 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "292db4a0-1a35-49ef-9583-c73a752efa26",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d61fb55-705b-47f3-bf6a-ad00b8fcc2b9",
+    "data": [
+      {
+        "text": "2_",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f0b2a0a-ffbb-4481-b7ca-cc92d3659064",
+    "data": [
+      {
+        "text": "Qual é a minha responsabilidade como usuário do aplicativo ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "925bc8a3-e22b-44b9-8058-4c16e9ea8543",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "5_30",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "48ef07ce-eee3-4f94-85a2-e09441d7eca5",
+    "data": [
+      {
+        "text": "5_30",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f9cf837f-29f3-4b3b-b5e9-6f0caa2363ae",
+    "data": [
+      {
+        "text": "Ainda não recebi o meu pedido. O que devo fazer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

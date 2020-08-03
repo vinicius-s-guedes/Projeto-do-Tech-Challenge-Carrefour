@@ -1,0 +1,35 @@
+{
+  "id": "f9ab8818-8d73-449a-ac1d-63e2d47b32df",
+  "name": "intent perguntas frequentes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "/1_1 Como comprar no aplicativo?\n/1_2 Posso comprar pelo aplicativo e retirar os produtos em uma das lojas físicas?\n/1_3 O Carrefour entrega em todo o Brasil?\n/1_4 Como é definido o valor do frete?\n/1_5 Como posso acompanhar o andamento do meu pedido?\n/1_6 Ainda não recebi o meu pedido. O que devo fazer?\n/1_7 Posso mudar o horário de entrega do meu pedido?\n/1_8 Como faço para trocar o meu produto?\n/1_9 Recebi um produto diferente do comprado. O que devo fazer?\n/1_10 Meu produto chegou quebrado/com a embalagem danificada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

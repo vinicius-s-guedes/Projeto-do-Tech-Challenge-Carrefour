@@ -1,0 +1,226 @@
+[
+  {
+    "id": "e22e10ed-173a-4d73-9e73-fc0674bd31a4",
+    "data": [
+      {
+        "text": "qual ",
+        "userDefined": false
+      },
+      {
+        "text": "loja",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tem ",
+        "userDefined": false
+      },
+      {
+        "text": "protudo",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e67f4ac1-f7d1-4df2-9c74-3b9f1a61c747",
+    "data": [
+      {
+        "text": "zenfone",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eecde47a-590a-4d28-86f5-ae43392154c8",
+    "data": [
+      {
+        "text": "você teria ",
+        "userDefined": false
+      },
+      {
+        "text": "produto",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71f2afaa-b8d4-49e8-a372-a754965c38a2",
+    "data": [
+      {
+        "text": "você teria ",
+        "userDefined": false
+      },
+      {
+        "text": "zefone",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "475f583d-493e-4383-a9fb-8aa2f24b7927",
+    "data": [
+      {
+        "text": "você teria ",
+        "userDefined": false
+      },
+      {
+        "text": "zenfone",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b99e7f44-453f-4863-b27a-f872d70cf3e2",
+    "data": [
+      {
+        "text": "frigobar",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bead660c-3e71-47a7-9aa5-1747941363e6",
+    "data": [
+      {
+        "text": "você teria zenfone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6942520e-5300-402f-82d9-621f26891fd7",
+    "data": [
+      {
+        "text": "estoque",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "produto",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c1dd35a-be21-4624-846f-c867862793b5",
+    "data": [
+      {
+        "text": "como comprar ",
+        "userDefined": false
+      },
+      {
+        "text": "produto",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5daf0d48-57c9-455a-bd62-0e43b013b752",
+    "data": [
+      {
+        "text": "onde acho ",
+        "userDefined": false
+      },
+      {
+        "text": "produto",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9bb1dd5f-2d0b-4650-8c2d-afad048369a7",
+    "data": [
+      {
+        "text": "comprar ",
+        "userDefined": false
+      },
+      {
+        "text": "produto",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9d11e431-2794-4d7c-b9b8-ac617631e689",
+    "data": [
+      {
+        "text": "produto",
+        "meta": "@produto",
+        "alias": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

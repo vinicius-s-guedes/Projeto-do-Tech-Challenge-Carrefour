@@ -1,0 +1,60 @@
+[
+  {
+    "id": "5846afce-5dd9-404a-a467-b99711b0eab8",
+    "data": [
+      {
+        "text": "/2_20",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66530861-aabb-4d10-8467-6d1de5705030",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43971e88-4032-4a14-8be1-45b4c1c1544e",
+    "data": [
+      {
+        "text": "O que é Push ",
+        "userDefined": false
+      },
+      {
+        "text": "Notification",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

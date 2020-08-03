@@ -1,0 +1,35 @@
+{
+  "id": "d755cb13-c10e-4ade-9b76-83933d86483d",
+  "name": "intent 3_7",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os produtos oferecidos no aplicativo são diferentes do site, mas constantemente revisamos as mercadorias comercializadas nos diferentes canais de venda e atualizamos a oferta de produtos para você ter uma melhor experiência de compra. Por isso, nada impede que novos produtos sejam disponibilizados em breve no Carrefour.com.br"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

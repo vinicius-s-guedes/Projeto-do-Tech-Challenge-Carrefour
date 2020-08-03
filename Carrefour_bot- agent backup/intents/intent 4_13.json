@@ -1,0 +1,35 @@
+{
+  "id": "d4661c42-fe5b-4fa0-ae4c-2581c1d2f03e",
+  "name": "intent 4_13",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A Nota Fiscal de um pedido é gerada na etapa em que começamos a preparar os produtos para a entrega. Isso só acontece após a confirmação do pagamento. Mas fique tranquilo, sempre enviamos um e-mail avisando quando sua Nota Fiscal foi gerada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

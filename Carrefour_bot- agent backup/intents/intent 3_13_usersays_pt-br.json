@@ -1,0 +1,101 @@
+[
+  {
+    "id": "84574714-8bdc-4f2a-8a57-23a66020a9b0",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6980821-3ca5-418a-9be9-cc56535ae51a",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2aeb6a99-01da-4b5b-954d-fb980e17191f",
+    "data": [
+      {
+        "text": "Posso encontrar produtos de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mesma marca e categoria à ",
+        "userDefined": false
+      },
+      {
+        "text": "venda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " no “",
+        "userDefined": false
+      },
+      {
+        "text": "Mercado",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " até Você” e no site ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " simultaneamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

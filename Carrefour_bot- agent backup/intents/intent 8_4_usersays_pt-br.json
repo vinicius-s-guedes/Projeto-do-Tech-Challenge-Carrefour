@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d5da99da-1f1e-48c2-8a95-0cddeaa762f2",
+    "data": [
+      {
+        "text": "falar com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " representante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b3a9a1d-044a-4fef-a7b4-00ffd60c7df1",
+    "data": [
+      {
+        "text": "quero falar com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atendente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "72de0339-4271-44e3-8f3d-cc83a4cd3539",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "98426272-ec3f-426d-b591-75ce340fd55f",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd7cb168-0875-497a-8119-8f2c0a136c53",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " os números de telefone do atendimento ",
+        "userDefined": false
+      },
+      {
+        "text": "Carrefour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

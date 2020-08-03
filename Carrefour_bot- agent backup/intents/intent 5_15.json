@@ -1,0 +1,35 @@
+{
+  "id": "16ebaa5b-fc67-4379-9eff-8de4ac94d057",
+  "name": "intent 5_15",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Você pode acompanhar com detalhes o andamento do seu pedido a qualquer momento no menu “Faz do seu jeito” clicando em “Ver todas”, na área roxa da página. Se continuar com alguma dúvida, entre em contato conosco pelo telefone 3003-2099*, de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

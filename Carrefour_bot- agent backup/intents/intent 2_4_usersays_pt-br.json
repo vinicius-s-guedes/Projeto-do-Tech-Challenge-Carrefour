@@ -1,0 +1,65 @@
+[
+  {
+    "id": "12d7eafc-f721-48f0-8180-1acd6ba8ec05",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "041d7036-c4ac-4272-a278-688f749a6902",
+    "data": [
+      {
+        "text": "2_4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fc826b03-57ff-42a3-8d7a-04ba380f5349",
+    "data": [
+      {
+        "text": "Como acesso ",
+        "userDefined": false
+      },
+      {
+        "text": "a área",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " “Minha conta”?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

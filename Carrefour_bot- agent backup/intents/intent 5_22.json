@@ -1,0 +1,35 @@
+{
+  "id": "0333fb6b-cfa6-4d74-9a07-4e268cabcb12",
+  "name": "intent 5_22",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Em casos raros, pode haver o extravio de alguma mercadoria. Se isto acontecer entre em contato com o nosso atendimento pelo telefone 3003-2099* para mais informações. Horário de atendimento: de segunda a sábado, das 7h às 22h. *Exceto feriados nacionais"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

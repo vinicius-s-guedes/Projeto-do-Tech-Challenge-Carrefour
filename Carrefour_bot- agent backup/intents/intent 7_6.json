@@ -1,0 +1,50 @@
+{
+  "id": "053377d6-5dd7-43c8-889c-231680232c7f",
+  "name": "intent 7_6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "79f49d90-c801-48b8-b353-de465076bae1",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Programa Garantia de Origem foi criado na França, em 1992, para assegurar uma produção ambientalmente correta e socialmente justa. Em 1999, este selo de qualidade chegou ao Brasil e rapidamente conseguiu aumentar o número de produtos certificados, resultando na modernização e organização dos nossos parceiros fornecedores. Atualmente contamos com mais de 160 produtos frutos de uma produção pautada na responsabilidade social e ambiental. Toda a produção é baseada nos 5 princípios dos produtos ambientalmente e socialmente corretos. Confira mais em \u003cinserir link do site Carrefour\u003e."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

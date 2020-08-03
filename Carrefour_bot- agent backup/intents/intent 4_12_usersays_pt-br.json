@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8a9ebd39-2bd7-42af-b667-1238b679b14e",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0dee77c-04bc-402b-8cd2-ffd8a83fb162",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d317d039-7e9d-44dd-beba-f67e396d63da",
+    "data": [
+      {
+        "text": "O meu pedido foi cobrado ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vezes na fatura do cartão.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
