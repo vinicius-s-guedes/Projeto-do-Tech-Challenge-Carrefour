@@ -1,0 +1,17 @@
+{
+  "name": "gym-bot",
+  "version": "1.0.0",
+  "description": "Projeto criado para resolução do desafio da carrefour",
+  "author": "vinicius santos guedes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+    }
+}
