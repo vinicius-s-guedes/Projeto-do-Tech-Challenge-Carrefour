@@ -25,7 +25,7 @@ request(optionsApiTomtom, function (error, response, body) {
 //Atrvés da api do Carrefour usando a latitude e a longitude fornecida pelo tomtom, localiza o Carrefour mais próximo de você
 function pesquisaPorLatLong(lat, lon) {
   var optionsApiCarrefour = { method: 'GET',
-  url: 'https://api3.carrefour.com.br/cci/publico/cadastro-lojas-complemento/cadastro-lojas-complemento',
+  url: 'https://api2.carrefour.com.br/cci/publico/cadastro-lojas-complemento/cadastro-lojas-complemento',
   qs: 
   {
     latitude: lat,

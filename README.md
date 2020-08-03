@@ -34,3 +34,5 @@
 - Substituir os arquivos de credenciais do carrefour_bot, tokenBotFather e do apiCarrefour
 - Executar o comando `yarn start` dentro da pasta raiz do projeto para executar o código
 ```
+### 8) Veja a apresentação do projeto
+- [https://youtu.be/kVVVeozhNnE](https://youtu.be/kVVVeozhNnE)

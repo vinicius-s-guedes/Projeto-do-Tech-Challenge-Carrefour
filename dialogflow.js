@@ -33,10 +33,6 @@ async function sendMessage(chatId, message) {
         text: message,
          languageCode: 'pt-BR'
 
-     },
-     event: {
-      name: 'start',
-       languageCode: 'pt-BR' 
      }
     }
 
