@@ -27,7 +27,7 @@
 - [https://dev.carrefour.com.br/node/107](https://dev.carrefour.com.br/node/107) (Carrefour) Lembrar de ativar a api no botão assinar
 - [https://developer.tomtom.com/user/me/apps](https://developer.tomtom.com/user/me/apps) (Tomtom)
 
-### 7a) Rodar o projeto
+### 7) Rodar o projeto
 ```bash
 - Efetuar o clone do repositório em uma pasta do sistema operacional
 - Executar o comando `yarn install ou npm install` dentro da pasta raiz do projeto para baixar as dependências
