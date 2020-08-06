@@ -15,6 +15,8 @@
 
 ### 3) Dialogflow
 - [https://dialogflow.com/](https://dialogflow.com/)
+Caso queira usar a mesma base de dados do dialogflow:
+Entre nas configuração do seu projeto, vá para aba importar e exportar e cole a pasta `Carrefour_bot- agent backup/` no drop files
 
 ### 4) dev carrefour
 - [https://dev.carrefour.com.br/](https://dev.carrefour.com.br/)
