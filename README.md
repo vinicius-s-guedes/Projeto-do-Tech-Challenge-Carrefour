@@ -38,3 +38,6 @@ Entre nas configuração do seu projeto, vá para aba importar e exportar e cole
 ```
 ### 8) Veja a apresentação do projeto
 - [https://youtu.be/kVVVeozhNnE](https://youtu.be/kVVVeozhNnE)
+
+### 9) Veja todas as funcionalidades
+- [https://www.youtube.com/watch?v=AkufDDE5Msc](https://www.youtube.com/watch?v=AkufDDE5Msc)
