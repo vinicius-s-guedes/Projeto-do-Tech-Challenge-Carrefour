@@ -1,8 +1,8 @@
  # Resolução do projeto: solução técnica que otimize a comunicação entre clientes e o Carrefour
 > Tech Challenge Carrefour- Digital Innovaton One e Carrefour
 
-![](./apresentação/demoday.jpg)
-![](./static/demodai.jpg)
+![](./apresentação/demoday.png)
+![](./static/demodai.png)
 ### 1) Telegram
 - [https://web.telegram.org/](https://web.telegram.org/)
 #### Criando o bot
