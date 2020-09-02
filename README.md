@@ -38,8 +38,6 @@ Entre nas configuração do seu projeto, vá para aba importar e exportar e cole
 - Substituir os arquivos de credenciais do carrefour_bot, tokenBotFather e do apiCarrefour
 - Executar o comando `yarn start` dentro da pasta raiz do projeto para executar o código
 ```
-### 8) Veja a apresentação do projeto
-- [https://youtu.be/kVVVeozhNnE](https://youtu.be/kVVVeozhNnE)
 
-### 9) Veja todas as funcionalidades
+###  8)Veja todas as funcionalidade
 - [https://www.youtube.com/watch?v=AkufDDE5Msc](https://www.youtube.com/watch?v=AkufDDE5Msc)
